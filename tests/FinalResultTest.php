@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
-use PHPUnit\Framework\TestCase; 
-include 'src/FinalResult.php';
+use PHPUnit\Framework\TestCase;
+include_once './vendor/autoload.php';
 
 
 
